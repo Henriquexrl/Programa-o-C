@@ -1,6 +1,3 @@
-# Programa-o-C
-Programação C
-
 #include <stdio.h>
 
 int main() {
